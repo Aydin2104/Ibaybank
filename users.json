@@ -1,0 +1,15 @@
+[
+  {
+    "first_name": "Айдын",
+    "last_name": "Мамедов",
+    "phone_number": "+1234567890",
+    "cards": [
+      {
+        "card_number": "2102102102102105",
+        "card_password": "2105",
+        "balance" : 5.0,
+        "is_active": 1,
+        "commission": 0
+      }
+    ]
+  }
